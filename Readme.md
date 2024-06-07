@@ -1,3 +1,5 @@
 # Drunk Tech COba
 
-Ini Paragrag Biasa 
+Ini Paragraf Biasa
+
+ini penutup
